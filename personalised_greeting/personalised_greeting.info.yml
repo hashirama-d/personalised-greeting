@@ -1,0 +1,6 @@
+name: 'Custom Greeting'
+type: module
+description: 'Adds a personalized greeting block for authenticated users.'
+core_version_requirement: ^8 || ^9
+package: Custom
+version: '1.0'
